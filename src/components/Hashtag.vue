@@ -1,7 +1,7 @@
 <template>
   <div id="hashtag" class="primary--text">
     <span>#SITCONxHK</span>
-    <span>#SITCONxHK2017</span>
+    <span>#SITCONxHK2018</span>
   </div>
 </template>
 

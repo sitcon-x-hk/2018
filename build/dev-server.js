@@ -40,7 +40,7 @@ compiler.plugin('compilation', function (compilation) {
 app.use(require('morgan')('dev'));
 
 // handle fallback for HTML5 history API
-app.use('/2017', require('connect-history-api-fallback')());
+app.use('/2018', require('connect-history-api-fallback')());
 
 // serve webpack bundle output
 app.use(devMiddleware);
@@ -50,7 +50,7 @@ app.use(devMiddleware);
 app.use(hotMiddleware);
 
 // serve pure static assets
-app.use('/2017', express.static('./static'));
+app.use('/2018', express.static('./static'));
 
 const uri = 'http://localhost:' + port;
 
