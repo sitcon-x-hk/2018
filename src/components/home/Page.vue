@@ -18,13 +18,7 @@
     <v-card light flat>
       <v-card-title primary-title class="justify-center">
         <div>
-          <h3 class="headline primary--text">Theme: Exploration and Innovation</h3>
-          <p>
-            Our theme this year is "Exploration and Innovation". We aim to provide a variety of talks to allow students
-            to explore different fields of IT industry. We planned to have talks on several fields such as front end, back end, data science and security.
-            Besides, we hope to encourage students to integrate IT skills with knowledge in other fields like finance, design, and mechanics.
-            Therefore, to inspire them to implement their imagination in other fields by using IT skills.
-          </p>
+          <h3 class="headline primary--text">Theme: "Technology: Shaping the Future"</h3>
         </div>
       </v-card-title>
     </v-card>
