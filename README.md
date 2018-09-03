@@ -1,6 +1,6 @@
-# sitcon-x-hk-2017
+# sitcon-x-hk-2018
 
-> SITCON x HK 2017
+> SITCON x HK 2018
 
 ## Build Setup
 
