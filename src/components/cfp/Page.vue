@@ -35,7 +35,7 @@
               <p>It is open for registration on the lunch time of the conference. You have only 5 minutes to present.</p>
 
               <h5 class="headline">Submission of Papers</h5>
-              <p>Deadline: 31 Aug 2018 23:59</p>
+              <p>Deadline: <b>9 Sep 2018 23:59</b> (updated)</p>
               <v-btn href="https://goo.gl/forms/0IlKYlOQd8tmrhEh2" class="primary">Apply</v-btn>
               <p>For any enquiries, please kindly send an email to : <a href="mailto:cfp@hk.sitcon.org">cfp@hk.sitcon.org</a></p>
 
