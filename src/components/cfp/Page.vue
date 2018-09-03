@@ -7,7 +7,7 @@
             <div>
               <h3 class="headline primary--text">Call for Paper</h3>
               <h4 class="headline">Technology: Shaping the Future</h4>
-              <p>Warm Greetings from the committee of SITCON x HK 2018! The coming of new semester implies another year of the biggest event among IT students in Hong Kong, SITCON x HK. With the support of various organisations, we are grateful to announce the launch of this year’s SITCON x HK 2018. This year we have the theme "Technology: Shaping the Future". The event will be held at City University of Hong Kong from 30 September 2018 to 1 October 2018.</p>
+              <p>Warm Greetings from the committee of SITCON x HK 2018! The coming of new semester implies another year of the biggest event among IT students in Hong Kong, SITCON x HK. With the support of various organisations, we are grateful to announce the launch of this year’s SITCON x HK 2018. This year we have the theme "Technology: Shaping the Future". The event will be held at <b>Chinese University of Hong Kong on 29 September 2018</b> (updated).</p>
               <p>We are now looking for interested speakers to share their thoughts, ideas and projects in the event. Through sharing in our event, you are able to make contacts with students, recruit talent and promote your organization, etc. And mostly importantly, you can help to improve the IT industry culture in Hong Kong! Please refer to the details below:</p>
 
               <h5 class="headline">Keynote</h5>
