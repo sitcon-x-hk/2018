@@ -7,7 +7,7 @@
       <div class="headline">
         <span>
           <v-icon class="white--text">event</v-icon>
-          30 Sept - 1 Oct
+          29 September 2018
         </span>
         <span>
           <v-icon class="white--text">location_on</v-icon>
