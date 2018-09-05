@@ -3,7 +3,7 @@
     <v-card-title primary-title>
       <div>
         <h3 class="headline black--text">Venue</h3>
-        <div>To be announced/div>
+        <div>To be announced</div>
       </div>
     </v-card-title>
     <v-card-text>
