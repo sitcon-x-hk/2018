@@ -7,24 +7,14 @@
       <div class="headline">
         <span>
           <v-icon class="white--text">event</v-icon>
-          29 September 2018
+          To Be Announced
         </span>
         <span>
           <v-icon class="white--text">location_on</v-icon>
-          City University of Hong Kong
+          To Be Announced
         </span>
       </div>
       <v-btn class="primary" to="/cfp">Apply for CFP</v-btn>
-      <!--<div>-->
-        <!--<v-btn class="red white&#45;&#45;text" href="https://www.youtube.com/playlist?list=PLWGOKR8_-1tnxBxUprjXWUqwPx0KQ6ojK" target="_blank">-->
-          <!--<v-icon dark left>fa-youtube-play</v-icon>-->
-          <!--LT 17-->
-        <!--</v-btn>-->
-        <!--<v-btn class="red white&#45;&#45;text" href="https://www.youtube.com/playlist?list=PLWGOKR8_-1tkU0n0EBQblTcwjJIN8a3WB" target="_blank">-->
-          <!--<v-icon dark left>fa-youtube-play</v-icon>-->
-          <!--LT 18-->
-        <!--</v-btn>-->
-      <!--</div>-->
     </v-layout>
   </div>
 </template>
