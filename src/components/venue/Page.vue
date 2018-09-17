@@ -3,7 +3,7 @@
     <v-card-title primary-title>
       <div>
         <h3 class="headline black--text">Venue</h3>
-        <div>To be announced</div>
+        <div>UG/F, LSK Building, The Chinese University of Hong Kong</div>
       </div>
     </v-card-title>
     <v-card-text>
@@ -43,8 +43,8 @@
     data() {
       return {
         center: {
-          lat: 22.337609,
-          lng: 114.171540,
+          lat: 22.4196819,
+          lng: 114.2039352,
         },
         zoom: 15,
       };
