@@ -7,11 +7,11 @@
       <div class="headline">
         <span>
           <v-icon class="white--text">event</v-icon>
-          To Be Announced
+          29th Sep, 2018 (Sat)
         </span>
         <span>
           <v-icon class="white--text">location_on</v-icon>
-          To Be Announced
+          UG/F, LSK Building, The Chinese University of Hong Kong
         </span>
       </div>
       <v-btn class="primary" to="/cfp">Apply for CFP</v-btn>
