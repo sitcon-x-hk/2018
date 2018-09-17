@@ -25,7 +25,6 @@
   .vue-map-container
     width: 100%
     height: 500px
-    display: none
 </style>
 
 <script>
