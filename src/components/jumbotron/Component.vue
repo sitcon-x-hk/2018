@@ -14,7 +14,7 @@
           UG/F, LSK Building, The Chinese University of Hong Kong
         </span>
       </div>
-      <v-btn class="primary" to="https://sitconxhk2018.eventbrite.com">Get tickets on Eventbrite!</v-btn>
+      <v-btn class="primary" href="https://sitconxhk2018.eventbrite.com">Get tickets on Eventbrite!</v-btn>
     </v-layout>
   </div>
 </template>
