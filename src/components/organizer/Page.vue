@@ -50,7 +50,6 @@
       return {
         organizers: [
           { name: 'SITCON x HK Community', logo: '/2018/img/icons/logo-312x312.png' },
-          { name: 'City University of Hong Kong', logo: '/2018/img/logos/cityu.png' },
         ],
         coOrganizers: [
           { name: 'SITAHK', logo: '/2018/img/logos/sita.png' },
