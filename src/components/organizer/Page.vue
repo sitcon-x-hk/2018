@@ -55,6 +55,7 @@
           { name: 'SITAHK', logo: '/2018/img/logos/sita.png' },
         ],
         supporting: [
+          { name: 'Apps Resource Centre, HKBU', logo: '/2018/img/logos/hkbuarc.png' },
           { name: 'Hong Kong Creative Technology Association', logo: '/2018/img/logos/cota.png' },
           { name: 'Open Source Hong Kong', logo: '/2018/img/logos/oshk.png' },
           { name: 'Hong Kong Linux User Group', logo: '/2018/img/logos/hklug.jpg' },
