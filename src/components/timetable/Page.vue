@@ -17,6 +17,10 @@
                   {{ session.issue }}
                 </v-list-tile-title>
                 <v-list-tile-sub-title>
+                  <template v-if="session.speaker">
+                    {{ session.speaker }}
+                    <br>
+                  </template>
                   <template v-if="session.venue">
                     <v-icon>room</v-icon> {{ session.venue }}
                   </template>
