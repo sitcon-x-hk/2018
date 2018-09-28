@@ -36,15 +36,6 @@ export default {
           title: 'What is IT?',
           speaker: 'Wong Wan Leung'
         },
-        {
-          title: 'Welcome the Brand New Ruby-like Language - Goby',
-          speaker: 'Maxwell',
-          icon: '/2017/img/speaker/maxwell.jpg',
-          venue: 'LT 18',
-          time: '11:20 - 12:05',
-          link: '/topic/goby',
-          language: 'English',
-        },
         { divider: true },
         {
           issue: 'Lunch Break',
