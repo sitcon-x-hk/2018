@@ -22,18 +22,18 @@ export default {
         { divider: true },
         {
           time: '1100 - 1200',
-          title: 'Turning "Likes" into Reward by LikeCoin',
+          issue: 'Turning "Likes" into Reward by LikeCoin',
           speaker: 'LikeCoin',
         },
         { divider: true },
         {
           time: '1200 - 1300',
-          title: ' 3D Computer Animation Crash Course',
+          issue: ' 3D Computer Animation Crash Course',
           speaker: 'Ann Leung',
         },
         {
           time: '1200 - 1300',
-          title: 'What is IT?',
+          issue: 'What is IT?',
           speaker: 'Wong Wan Leung',
         },
         { divider: true },
