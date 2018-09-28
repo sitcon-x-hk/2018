@@ -28,13 +28,13 @@ export default {
         { divider: true },
         {
           time: '1200 - 1300',
-           title: ' 3D Computer Animation Crash Course  ',
-            speaker: 'Ann Leung',
+          title: ' 3D Computer Animation Crash Course',
+          speaker: 'Ann Leung',
         },
         {
           time: '1200 - 1300',
           title: 'What is IT?',
-          speaker: 'Wong Wan Leung'
+          speaker: 'Wong Wan Leung',
         },
         { divider: true },
         {
@@ -50,18 +50,18 @@ export default {
         {
           time: '1400 - 1500',
           issue: 'GraphQL: The Introduction to The Future',
-          speaker: 'Steve Fan'
+          speaker: 'Steve Fan',
         },
         { divider: true },
         {
           time: '1500 - 1600',
-            issue: 'Building Anime Scene Search Engine with Open-source Software',
-            speaker: 'そるり'
-          },
+          issue: 'Building Anime Scene Search Engine with Open-source Software',
+          speaker: 'そるり'
+        },
         {
           time: '1500 - 1600',
           issue: 'Git: Time Machine for your Source Code',
-          speakeer: 'Koala Yueng'
+          speakeer: 'Koala Yueng',
         },
         { divider: true },
         {
