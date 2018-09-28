@@ -56,7 +56,7 @@ export default {
         {
           time: '1500 - 1600',
           issue: 'Building Anime Scene Search Engine with Open-source Software',
-          speaker: 'そるり'
+          speaker: 'そるり',
         },
         {
           time: '1500 - 1600',
