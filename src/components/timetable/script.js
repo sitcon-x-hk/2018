@@ -33,7 +33,7 @@ export default {
           issue: ' 3D Computer Animation Crash Course',
           speaker: 'Ann Leung',
           live: 'https://www.youtube.com/watch?v=-yvoceBIBkw',
-          icon: 'https://i.ytimg.com/vi/-yvoceBIBkw/hqdefault_live.jpg?sqp=CPSBvN0F-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE='
+          icon: 'https://i.ytimg.com/vi/-yvoceBIBkw/hqdefault_live.jpg?sqp=CPSBvN0F-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=',
         },
         {
           time: '1200 - 1300',
