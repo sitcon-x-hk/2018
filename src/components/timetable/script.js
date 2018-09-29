@@ -25,7 +25,7 @@ export default {
           issue: 'Turning "Likes" into Reward by LikeCoin',
           speaker: 'LikeCoin',
           live: 'https://www.youtube.com/watch?v=fUgusBwYKLE',
-          icon: 'https://i.ytimg.com/vi/fUgusBwYKLE/0.jpg',
+          icon: 'https://i.ytimg.com/vi/fUgusBwYKLE/0.jpg?cache_busting=1',
         },
         { divider: true },
         {
@@ -33,14 +33,14 @@ export default {
           issue: ' 3D Computer Animation Crash Course',
           speaker: 'Ann Leung',
           live: 'https://www.youtube.com/watch?v=-yvoceBIBkw',
-          icon: 'https://i.ytimg.com/vi/-yvoceBIBkw/hqdefault_live.jpg?sqp=CPSBvN0F-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=',
+          icon: 'https://i.ytimg.com/vi/-yvoceBIBkw/hqdefault_live.jpg?sqp=CPSBvN0F-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&cache_busting=1',
         },
         {
           time: '1230 - 1330',
           issue: 'What is IT?',
           speaker: 'Wong Wan Leung',
           live: 'https://www.youtube.com/watch?v=a8l-714pz3Y',
-          icon: 'https://i.ytimg.com/vi/a8l-714pz3Y/hqdefault_live.jpg',
+          icon: 'https://i.ytimg.com/vi/a8l-714pz3Y/hqdefault_live.jpg?cache_busting=1',
         },
         { divider: true },
         {
