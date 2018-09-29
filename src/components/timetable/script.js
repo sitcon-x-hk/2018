@@ -24,6 +24,7 @@ export default {
           time: '1100 - 1200',
           issue: 'Turning "Likes" into Reward by LikeCoin',
           speaker: 'LikeCoin',
+          live: 'https://www.youtube.com/watch?v=fUgusBwYKLE',
         },
         { divider: true },
         {
