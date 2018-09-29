@@ -68,14 +68,14 @@ export default {
           issue: 'Building Anime Scene Search Engine with Open-source Software',
           speaker: 'そるり',
           live: 'https://www.youtube.com/watch?v=46txMy5fxdE',
-          icon: 'https://i.ytimg.com/vi/46txMy5fxdE/hqdefault_live.jpg'
+          icon: 'https://i.ytimg.com/vi/46txMy5fxdE/hqdefault_live.jpg',
         },
         {
           time: '1530 - 1630',
           issue: 'Git: Time Machine for your Source Code',
           speakeer: 'Koala Yueng',
           live: 'https://www.youtube.com/watch?v=YwaY_cdlo_g',
-          icon: 'https://i.ytimg.com/vi/YwaY_cdlo_g/hqdefault_live.jpg'
+          icon: 'https://i.ytimg.com/vi/YwaY_cdlo_g/hqdefault_live.jpg',
         },
         { divider: true },
         {
