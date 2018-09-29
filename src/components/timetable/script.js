@@ -53,14 +53,14 @@ export default {
           issue: 'Deploying Web Application With Docker',
           speaker: 'Wong Ho Wa',
           live: 'https://www.youtube.com/watch?v=zvuz2wla15g',
-          icon: 'https://i.ytimg.com/vi/zvuz2wla15g/hqdefault_live.jpg'
+          icon: 'https://i.ytimg.com/vi/zvuz2wla15g/hqdefault_live.jpg',
         },
         {
           time: '1400 - 1500',
           issue: 'GraphQL: The Introduction to The Future',
           speaker: 'Steve Fan',
           live: 'https://www.youtube.com/watch?v=qWV_OBLB1tI',
-          icon: 'https://i.ytimg.com/vi/qWV_OBLB1tI/hqdefault_live.jpg'
+          icon: 'https://i.ytimg.com/vi/qWV_OBLB1tI/hqdefault_live.jpg',
         },
         { divider: true },
         {
