@@ -63,8 +63,6 @@
 <style scoped lang="stylus">
   .list
     border 1px solid rgba(0,0,0,0.12)
-    .list .list__tile
-      user-select:inherit
     .live
       img
         display: block
@@ -75,6 +73,10 @@
         background-color: transparent !important
         border-color: transparent !important
         position: absolute
+        -webkit-text-stroke-width: 1px;
+        -webkit-text-stroke-color: rgba(0,0,0,.4);
+  .list >>> .list__tile
+    user-select:inherit
 </style>
 
 <script src="./script.js"></script>
