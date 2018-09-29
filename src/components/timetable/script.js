@@ -25,6 +25,7 @@ export default {
           issue: 'Turning "Likes" into Reward by LikeCoin',
           speaker: 'LikeCoin',
           live: 'https://www.youtube.com/watch?v=fUgusBwYKLE',
+          icon: 'https://i.ytimg.com/vi/fUgusBwYKLE/0.jpg',
         },
         { divider: true },
         {
@@ -32,6 +33,7 @@ export default {
           issue: ' 3D Computer Animation Crash Course',
           speaker: 'Ann Leung',
           live: 'https://www.youtube.com/watch?v=-yvoceBIBkw',
+          icon: 'https://i.ytimg.com/vi/-yvoceBIBkw/hqdefault_live.jpg?sqp=CPSBvN0F-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE='
         },
         {
           time: '1200 - 1300',
