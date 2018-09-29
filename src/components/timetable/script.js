@@ -31,6 +31,7 @@ export default {
           time: '1200 - 1300',
           issue: ' 3D Computer Animation Crash Course',
           speaker: 'Ann Leung',
+          live: 'https://www.youtube.com/watch?v=-yvoceBIBkw',
         },
         {
           time: '1200 - 1300',
