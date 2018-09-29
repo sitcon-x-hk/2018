@@ -82,11 +82,16 @@ export default {
           time: '1630 - 1730',
           issue: 'Libre Silicon:  Free as in freedom silicon',
           speaker: 'David Lanzendörfer',
+          live: 'https://www.youtube.com/watch?v=kiTcaRqzOmY',
+          icon: 'https://i.ytimg.com/vi/kiTcaRqzOmY/hqdefault_live.jpg',
+          lang: 'English',
         },
         {
           time: '1630 - 1730',
           issue: 'Apps Development with Ionic and NativeScript',
           speaker: 'Dave Fung\nApps Resource Centre, Hong Kong Baptist University',
+          live: 'https://www.youtube.com/watch?v=L7d-rFCRzhE',
+          icon: 'https://i.ytimg.com/vi/L7d-rFCRzhE/hqdefault_live.jpg',
         },
         { divider: true },
         {
