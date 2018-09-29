@@ -55,7 +55,7 @@
 <style scoped lang="stylus">
   .list
     border 1px solid rgba(0,0,0,0.12)
-  .list__tile
+  .list .list__tile
     user-select:inherit
 </style>
 
