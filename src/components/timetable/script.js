@@ -45,18 +45,18 @@ export default {
         { divider: true },
         {
           issue: 'Lunch Break',
-          time: '1330 - 1400',
+          time: '1330 - 1430',
         },
         { divider: true },
         {
-          time: '1400 - 1500',
+          time: '1430 - 1530',
           issue: 'Deploying Web Application With Docker',
           speaker: 'Wong Ho Wa',
           live: 'https://www.youtube.com/watch?v=zvuz2wla15g',
           icon: 'https://i.ytimg.com/vi/zvuz2wla15g/hqdefault_live.jpg',
         },
         {
-          time: '1400 - 1500',
+          time: '1430 - 1530',
           issue: 'GraphQL: The Introduction to The Future',
           speaker: 'Steve Fan',
           live: 'https://www.youtube.com/watch?v=qWV_OBLB1tI',
@@ -64,35 +64,39 @@ export default {
         },
         { divider: true },
         {
-          time: '1500 - 1600',
+          time: '1530 - 1630',
           issue: 'Building Anime Scene Search Engine with Open-source Software',
           speaker: 'そるり',
+          live: 'https://www.youtube.com/watch?v=46txMy5fxdE',
+          icon: 'https://i.ytimg.com/vi/46txMy5fxdE/hqdefault_live.jpg'
         },
         {
-          time: '1500 - 1600',
+          time: '1530 - 1630',
           issue: 'Git: Time Machine for your Source Code',
           speakeer: 'Koala Yueng',
+          live: 'https://www.youtube.com/watch?v=YwaY_cdlo_g',
+          icon: 'https://i.ytimg.com/vi/YwaY_cdlo_g/hqdefault_live.jpg'
         },
         { divider: true },
         {
-          time: '1600 - 1700',
+          time: '1630 - 1730',
           issue: 'Libre Silicon:  Free as in freedom silicon',
           speaker: 'David Lanzendörfer',
         },
         {
-          time: '1600 - 1700',
+          time: '1630 - 1730',
           issue: 'Apps Development with Ionic and NativeScript',
           speaker: 'Dave Fung\nApps Resource Centre, Hong Kong Baptist University',
         },
         { divider: true },
         {
           issue: 'Lightning Talk',
-          time: '1700 - 1745',
+          time: '1730 - 1815',
         },
         { divider: true },
         {
           issue: 'Closing Ceremony',
-          time: '1745 - 1800',
+          time: '1815 - 1830',
         },
       ],
     };
