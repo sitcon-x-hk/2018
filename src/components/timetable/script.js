@@ -12,16 +12,16 @@ export default {
       sessions: [
         {
           issue: 'Registration',
-          time: '1000 - 1030',
+          time: '1000 - 1045',
         },
         { divider: true },
         {
           issue: 'Opening Ceremony',
-          time: '1030 - 1100',
+          time: '1045 - 1115',
         },
         { divider: true },
         {
-          time: '1100 - 1200',
+          time: '1115 - 1215',
           issue: 'Turning "Likes" into Reward by LikeCoin',
           speaker: 'LikeCoin',
           live: 'https://www.youtube.com/watch?v=fUgusBwYKLE',
@@ -29,21 +29,23 @@ export default {
         },
         { divider: true },
         {
-          time: '1200 - 1300',
+          time: '1230 - 1330',
           issue: ' 3D Computer Animation Crash Course',
           speaker: 'Ann Leung',
           live: 'https://www.youtube.com/watch?v=-yvoceBIBkw',
           icon: 'https://i.ytimg.com/vi/-yvoceBIBkw/hqdefault_live.jpg?sqp=CPSBvN0F-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=',
         },
         {
-          time: '1200 - 1300',
+          time: '1230 - 1330',
           issue: 'What is IT?',
           speaker: 'Wong Wan Leung',
+          live: 'https://www.youtube.com/watch?v=a8l-714pz3Y',
+          icon: 'https://i.ytimg.com/vi/a8l-714pz3Y/hqdefault_live.jpg',
         },
         { divider: true },
         {
           issue: 'Lunch Break',
-          time: '1300 - 1400',
+          time: '1330 - 1400',
         },
         { divider: true },
         {
