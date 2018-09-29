@@ -7,10 +7,18 @@
           <template v-for="(session, index) in sessions">
             <v-divider v-if="session.divider" :key="index"></v-divider>
             <v-list-tile v-else-if="session.issue" :key="session.issue">
-              <a v-if="session.live" :href="session.live" target="_blank">
-                <v-list-tile-avatar>
-                  <v-icon class="primary white--text">play_arrow</v-icon>
-                </v-list-tile-avatar>
+              <a v-if="session.live" :href="session.live" target="_blank" class="live">
+                <template v-if="session.icon">
+                  <v-list-tile-avatar>
+                    <img :src="session.icon" />
+                    <v-icon class="primary white--text">play_arrow</v-icon>
+                  </v-list-tile-avatar>
+                </template>
+                <template v-else>
+                  <v-list-tile-avatar>
+                    <v-icon class="primary white--text">play_arrow</v-icon>
+                  </v-list-tile-avatar>
+                </template>
               </a>
               <v-list-tile-content>
                 <v-list-tile-title>
@@ -57,6 +65,16 @@
     border 1px solid rgba(0,0,0,0.12)
     .list .list__tile
       user-select:inherit
+    .live
+      img
+        display: block
+        width: 48px
+        height: 48px
+        object-fit: cover
+      .material-icons
+        background-color: transparent !important
+        border-color: transparent !important
+        position: absolute
 </style>
 
 <script src="./script.js"></script>
